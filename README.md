@@ -20,11 +20,4 @@ This is an EXTREME memorization and click game. The object of the game is to cli
 * [heroku](https://www.heroku.com)
 
 
-## How to Install and Run
-01. git clone https://github.com/katbytes/React-Clicky-Game.git
-02. cd into the react-clicky-game (pwd or ls to check yo self)
-03. Run yarn install to get all dependencies
-04. Run yarn start (in bash/powershell)
-05. Go to localhost:3000 in your web browser (chrome)
-
 
