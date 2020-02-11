@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/aryastark.png",
+    "title": "Arya Stark"
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/branstark.png",
+    "title": "Bran Stark"
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/brienne.jpg",
+    "title": "Brienne of Tarth"
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/bronn.jpg",
+    "title": "Bronn"
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/cerseilannister.jpg",
+    "title": "Cersei Lannister"
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/daenerystargaryen.png",
+    "title": "Daenerys Targaryen"
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/davos.jpeg",
+    "title": "Davos Seaworth"
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/drogon.png",
+    "title": "Drogon"
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/ghost.jpg",
+    "title": "Ghost"
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/jaimelannister.jpg",
+    "title": "Jaime Lannister"
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/jonsnow.jpg",
+    "title": "Jon Snow"
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/jorahmormont.jpg",
+    "title": "Jorah Mormont"
+  },
+  {
+    "id": 13,
+    "image": "/assets/images/littlefinger.jpg",
+    "title": "Petyr Baelish (Littlefinger)"
+  },
+  {
+    "id": 14,
+    "image": "/assets/images/melisandre.jpeg",
+    "title": "Melisandre"
+  },
+  {
+    "id": 15,
+    "image": "/assets/images/nightking.jpg",
+    "title": "Night King"
+  },
+  {
+    "id": 16,
+    "image": "/assets/images/nymeria.jpg",
+    "title": "Nymeria"
+  },
+  {
+    "id": 17,
+    "image": "/assets/images/Rhaegal.jpg",
+    "title": "Rhaegal"
+  },
+  {
+    "id": 18,
+    "image": "/assets/images/samtarly.png",
+    "title": "Sam Tarly"
+  },
+  {
+    "id": 19,
+    "image": "/assets/images/sansastark.jpg",
+    "title": "Sansa Stark"
+  },
+  {
+    "id": 20,
+    "image": "/assets/images/thehound.jpg",
+    "title": "Sandor Clegane (The Hound)"
+  },
+  {
+    "id": 21,
+    "image": "/assets/images/tormund.jpg",
+    "title": "Tormund Giantsbane"
+  },
+  {
+    "id": 22,
+    "image": "/assets/images/tyrionlannister.jpg",
+    "title": "Tyrion Lannister"
+  },
+  {
+    "id": 23,
+    "image": "/assets/images/varys.jpg",
+    "title": "Varys"
+  },
+  {
+    "id": 24,
+    "image": "/assets/images/viserion.jpg",
+    "title": "Viserion"
+  }
+]
